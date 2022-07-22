@@ -1,0 +1,4 @@
+supplier_id,supplier_name,product_id,customer_name
+supplier1,bond,product1,customer1
+supplier2,bond,product2,customer2
+supplier,tom jack,product3,customer3

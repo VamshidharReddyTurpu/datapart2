@@ -1,0 +1,4 @@
+payment_id,total_cost,total_pay_amount,method_of_pay
+payment1,1000,500,offline
+payment2,2000,2000,online
+payment3,3000,3000,offline

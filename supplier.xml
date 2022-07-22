@@ -1,0 +1,20 @@
+﻿<suppliers>
+  <supplier>
+    <supplier_id>supplier1</supplier_id>
+    <supplier_name>bond</supplier_name>
+    <product_id>product1</product_id>
+    <customer_name>customer1</customer_name>
+  </supplier>
+  <supplier>
+    <supplier_id>supplier2</supplier_id>
+    <supplier_name>bond</supplier_name>
+    <product_id>product2</product_id>
+    <customer_name>customer2</customer_name>
+  </supplier>
+  <supplier>
+    <supplier_id>supplier</supplier_id>
+    <supplier_name>tom jack</supplier_name>
+    <product_id>product3</product_id>
+    <customer_name>customer3</customer_name>
+  </supplier>
+</suppliers>

@@ -1,0 +1,20 @@
+﻿<customers>
+  <customer>
+    <customer_id>customer1</customer_id>
+    <customer_name>Linnea</customer_name>
+    <product_name>Oven and drain cleaners</product_name>
+    <delivery_date>2022-01-01</delivery_date>
+  </customer>
+  <customer>
+    <customer_id>customer2</customer_id>
+    <customer_name>Amara</customer_name>
+    <product_name>Laundry powder</product_name>
+    <delivery_date>2022-01-02</delivery_date>
+  </customer>
+  <customer>
+    <customer_id>customer3</customer_id>
+    <customer_name>jaccky</customer_name>
+    <product_name>Floor polish</product_name>
+    <delivery_date>2022-01-03</delivery_date>
+  </customer>
+</customers>

@@ -1,0 +1,20 @@
+﻿<Products>
+  <Product>
+    <product_id>product1</product_id>
+    <product_name>Oven and drain cleaners</product_name>
+    <quantity>1 pices</quantity>
+    <price>1000</price>
+  </Product>
+  <Product>
+    <product_id>product2</product_id>
+    <product_name>Laundry powder</product_name>
+    <quantity>2 pack</quantity>
+    <price>120</price>
+  </Product>
+  <Product>
+    <product_id>product3</product_id>
+    <product_name>Floor polish</product_name>
+    <quantity>1</quantity>
+    <price>300</price>
+  </Product>
+</Products>
